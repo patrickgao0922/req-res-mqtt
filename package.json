@@ -1,0 +1,17 @@
+{
+  "name": "req-res-mqtt",
+  "version": "1.0.0",
+  "description": "MQTT Library with response",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt"
+  ],
+  "author": "Patrick Gao <patrickgao0922@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.14.0"
+  }
+}
